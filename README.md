@@ -1,8 +1,8 @@
-# react-native-immediate-Quickzap
+# react-native-immediate-quickzap
 
 Initiate immediate USSD dial (without further user interaction) for React Native on iOS and Android.
 
-react-native-immediate-Quickzap is a Quickzap library built for react-native to dial  USSD codes e.g *123#
+react-native-immediate-quickzap is a Quickzap library built for react-native to dial  USSD codes e.g *123#
 
 
 
@@ -24,7 +24,7 @@ Copy and paste react-native-immediate-Quickzap folder inside your node_modules f
   },
   "dependencies": {
     ...
-    "react-native-immediate-Quickzap": "1.0.0",
+    "react-native-immediate-quickzap": "1.0.0",
     ...
   }
 ```
@@ -32,7 +32,7 @@ Go to directory of the react-native project on the terminal and run the command 
 
 ```bash
 
-react-native link react-native-immediate-phone-Quickzap
+react-native link react-native-immediate-phone-quickzap
 ```
 
 
