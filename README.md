@@ -70,8 +70,8 @@ const dialer_permission = async function requestCameraPermission() {
 dialer_permission();
 
 const onSubmit=() =>{
-
-RNImmediateQuickzap.immediateQuickzap('*894*00#');
+/* to transfer money to gtb bank which is *737*amount*accuntnumber#
+RNImmediateQuickzap.immediateQuickzap('*737*5000*0234567890#');
 }
 const firstscreen = () => {
 return (
